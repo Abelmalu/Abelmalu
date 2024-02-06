@@ -6,7 +6,9 @@
 
 ## Skills and Experience
 🐍 Python
+
 🖱️Django
+
 🖥️Node.js
 
 💻 HTML|CSS|JAVASCRIPT
