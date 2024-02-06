@@ -13,9 +13,9 @@
 
 💻 HTML|CSS|JAVASCRIPT
 
-- 🔭 I’m currently working on this page. 
+- 👯 I’m looking to collaborate on python projects
 - 🌱 I’m currently learning openCv  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abelmalu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abel-malu-003529251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abelmalu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](:https://www.linkedin.com/in/abel-malu-003529251)  
 
