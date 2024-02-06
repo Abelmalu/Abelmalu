@@ -4,7 +4,12 @@
 
  I am a software developer that loves making life easy through coding.I love building projects that can be used in real life. Programming is all about solving problems. If a code does not solve any problem it is not a code, it is just a text that no one wants to read.This is my motto i built everything based on it,so welcome to my Github enjoy you stay!
 
-Skills: Python / Django/Node/ JS / HTML / CSS
+## Skills and Experience
+🐍 Python
+🖱️Django
+🖥️Node.js
+
+💻 HTML|CSS|JAVASCRIPT
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning openCv  
