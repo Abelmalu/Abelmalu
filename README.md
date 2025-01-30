@@ -14,7 +14,7 @@
 
 💻 HTML | CSS | JAVASCRIPT
 
-- 👯 I’m looking to collaborate in python projects
+- 👯 I’m looking to collaborate in flutter projects
   
 
 
