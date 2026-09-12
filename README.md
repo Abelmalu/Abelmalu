@@ -1,23 +1,25 @@
-## Hi there 👋, This is Abel Malu
-### Software Developer 
-![IMG_20231211_051641_167](https://github.com/user-attachments/assets/131330b2-47b0-4059-819d-bdb0dba04f17)
+## Hi, I'm Abel Malu 👋
 
+**Distributed Systems Engineer**
 
- I am a software developer that loves making life easy through coding.I love building projects that can be used in real life. Programming is all about solving problems. If a code does not solve any problem it is not a code, it is just a text that no one wants to read.This is my motto i built everything based on it,so welcome to my Github enjoy your stay!
+I build practical backend services with Go, with a focus on distributed systems, concurrency, and real-time communication. I enjoy turning real-world problems into simple, reliable software.
 
-## Skills and Experience
+### My toolkit
 
-🖥️ Golang
+| Area                      | Technologies                          |
+| ------------------------- | ------------------------------------- |
+| Language & backend        | **Go (Golang)** · Gin · Chi           |
+| Databases                 | PostgreSQL · MongoDB · golang-migrate |
+| Messaging & communication | Apache Kafka · gRPC · WebSockets      |
+| Infrastructure & caching  | Docker · Redis . Kubernetes . Jenkins                   |
+| Observability             | Prometheus · OpenTelemetry            |
 
-🐍 Flutter
+### What I work on
 
-🖱️Django
+- Backend APIs and microservices built with Go.
+- Event-driven systems and communication between services.
+- Real-time features, caching, and containerized applications.
 
-🖥️Laravel
+---
 
-💻 HTML | CSS | JAVASCRIPT
-
-- 👯 I’m looking to collaborate in Golang projects
-  
-
- 
+**Open to collaborating on Go and distributed systems projects.**
