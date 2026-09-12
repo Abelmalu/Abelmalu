@@ -4,7 +4,7 @@
 
 I build practical backend services with Go, with a focus on distributed systems, concurrency, and real-time communication. I enjoy turning real-world problems into simple, reliable software.
 
-3+ Years of Experience Core Expertise in building high-throughput financial systems, secure payment gateways, and high-data leveraging applications.
+3+ Years of Core Expertise in building high-throughput financial systems, secure payment gateways, and high-data leveraging applications.
 
 ### My toolkit
 
@@ -29,4 +29,4 @@ I build practical backend services with Go, with a focus on distributed systems,
 **Open to collaborating on Go and distributed systems projects.**. Let's connect:
 
 - LinkedIn: [linkedin.com/in/abelmalu](https://et.linkedin.com/in/abelmalu)
-- Email: [abelmalu@example.com](mailto:abelmalut@gmail.com)
+- Email: [abelmalut@gmail.com](mailto:abelmalut@gmail.com)
