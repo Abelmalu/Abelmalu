@@ -21,12 +21,6 @@ I build practical backend services with Go, with a focus on distributed systems,
 - High-throughput backend APIs and microservices built with Go.
 - High-volume data processing and event-driven architectures.
 - Real-time features, caching systems, and containerized applications.
-
+- 
 ---
-
-### Contact Me
-
-**Open to collaborating on Go and distributed systems projects.**. Let's connect:
-
-- LinkedIn: [linkedin.com/in/abelmalu](https://et.linkedin.com/in/abelmalu)
-- Email: [abelmalut@gmail.com](mailto:abelmalut@gmail.com)
+**Open to collaborating on Go and distributed systems projects.**
