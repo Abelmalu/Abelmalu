@@ -21,6 +21,3 @@ I build practical backend services with Go, with a focus on distributed systems,
 - High-throughput backend APIs and microservices built with Go.
 - High-volume data processing and event-driven architectures.
 - Real-time features, caching systems, and containerized applications.
-- 
----
-**Open to collaborating on Go and distributed systems projects.**
